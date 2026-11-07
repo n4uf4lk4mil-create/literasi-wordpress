@@ -1,0 +1,9 @@
+{
+    "default": {
+        "title": "Default",
+        "description": "",
+        "version": "1.6",
+        "category": "business",
+        "demo_url": "//flexify.themerex.net/"
+    }
+}
