@@ -1,0 +1,21 @@
+/*
+Theme Name: Thryve Creative Dark
+Theme URI: https://thryvewp.com/themes/thryve-creative
+Author: thryvewp
+Author URI: https://thryvewp.com/
+Description: Thryve Creative Dark is a modern, lightweight, and highly optimized Full Site Editing (FSE) WordPress theme designed for speed, flexibility, and performance. Built with clean code and the latest WordPress standards, it delivers fast loading times and an intuitive customization experience through the Site Editor—no coding required. The theme includes responsive layouts, SEO-friendly structure and seamless compatibility with popular WordPress plugins. Thryve Creative Dark is ideal for businesses, corporate websites, consulting firms, agencies, startups, financial services, law firms, travel and tour companies, educational institutions, schools, colleges, healthcare providers, nonprofits, portfolios, and many other professional websites. Whether you're creating a simple business site or a feature-rich corporate presence, Thryve Creative Dark provides a solid, performance-focused foundation that is easy to customize and maintain.
+Requires at least: 6.5
+Tested up to: 7.1
+Requires PHP: 7.0
+Version: 1.2
+Template: thryve-creative
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thryve-creative-dark
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations,  blog, portfolio, education
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+

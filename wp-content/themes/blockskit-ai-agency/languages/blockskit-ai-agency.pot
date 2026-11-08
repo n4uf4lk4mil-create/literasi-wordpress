@@ -1,0 +1,456 @@
+# Translation of blockskit-ai-agency in Blockskit AI Agency
+# This file is distributed under the same license as the Blockskit AI Agency package.
+msgid ""
+msgstr ""
+"Project-Id-Version: blockskit-ai-agency\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-ai-agency\n"
+"POT-Creation-Date: 2026-09-18T10:19:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: blockskit-manager\n"
+"X-Domain: blockskit-ai-agency\n"
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:37
+msgid "Products"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:53
+msgid "Company"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:73
+msgid "Resources"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:89
+msgid "Support"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:108
+msgid "Copyright © 2026 ·"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\footer.php:114
+msgid "· All rights reserved"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\header.php:35
+msgid "Hire Now"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:21
+msgid "\"Next-generation AI empowers organizations to stay competitive, innovate faster\""
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:36
+msgid "ABOUT US"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:43
+msgid "Unlock Possibilities With Our Intelligence.."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:49
+msgid "Laudantium exercitationem! Doloribus cras tristique nibh dictum modi. Eaque, iaculis mus, est tempora, senectus quas. Hymenaeos assumenda, inceptos haretra senectus unde."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:61
+msgid "Our Analytics And Brief :"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:71
+msgid "Arcu proin, etiam condi."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:81
+msgid "Proin sequi magnam."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:91
+msgid "Ratione odio harum."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:101
+msgid "Repellat eu feugiat fugit."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:116
+msgid "CALL US ANYTIME:"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:120
+msgid "+981-26-891-9988"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-about.php:127
+msgid "More About Us"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:20
+msgid "AI DRIVEN AGENCY"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:27
+msgid "AI-Driven Solutions for Future Brands"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:37
+msgid "\"We are a forward-thinking AI agency dedicated to helping businesses unlock the best potential.\""
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:42
+msgid "Get Started"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:46
+msgid "View Services"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:65
+msgid "#1 Top Certified Agency"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:69
+msgid "Best AI Driven Soultions"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:93
+msgid "+"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:99
+msgid "15M+ Happy Clients"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-hero-banner.php:103
+msgid "We&#39;ve globbally satisfied clients"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:20
+msgid "BLOGS &amp; NEWS"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:27
+msgid "Recent AI Insights,Trends &amp; News Resources"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:35
+msgid "Laudantium exercitationem! Doloribus cras tristique nibh dictum modi. Eaque, iaculis mus, est tempora, senectus quas unde."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-latest-posts.php:42
+msgid "View All Blogs"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:24
+msgid "OUR SERVICES"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:31
+msgid "AI-optimized Services For Innovative Futures"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:52
+msgid "AI Chatbot Development"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:57
+#: patterns\home-services.php:75
+#: patterns\home-services.php:93
+#: patterns\home-services.php:111
+#: patterns\home-services.php:129
+msgid "Occaecati exercitation delectus eu leo fames aliqua convallis praesentium. Expedita! Tempus aspernatur, quidem."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:70
+msgid "Machine Learning Solutions"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:88
+msgid "Voice Assistant Integration"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:106
+msgid "Data Science &amp; AI Community"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:124
+msgid "AI-Powered Marketing"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:135
+msgid "Need Help? Let\\'s connect to our AI community."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:159
+msgid "Over 40M+ Members"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:165
+msgid "Join Now"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-services.php:169
+msgid "More Services"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:24
+msgid "CLIENT TESTIMONIALS"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:31
+msgid "Trusted By Millions of Happy Customers"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:60
+#: patterns\home-testimonials.php:104
+msgid "(4.8 ratings)"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:65
+msgid "“Great Work By Team.\""
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:70
+#: patterns\home-testimonials.php:114
+msgid "Pede nostrum varius duis do sunt inceptos corporis omnis nesciunt laudantium alias. Expedita mi in."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:75
+msgid "Zenny Wilington"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:79
+msgid "Supervisor, XYZ Tech"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:109
+msgid "“Highly Recommend Services.\""
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:119
+msgid "James Anderson"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:123
+msgid "CEO, eTech Solutions"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\home-testimonials.php:134
+msgid "More Testimonials"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:26
+#: patterns\template-cart.php:89
+#: patterns\template-cart.php:152
+msgid "You may be interested in…"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:208
+msgid "Your cart is currently empty!"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:212
+msgid "Browse store"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-cart.php:220
+msgid "New in store"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:40
+msgid "Order details"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:48
+msgid "Downloads"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:58
+msgid "Shipping address"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-order-confirmation.php:68
+msgid "Billing address"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-single-product.php:15
+msgid "Single Product"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns\template-single-product.php:57
+msgid "Related products"
+msgid_plural "blockskit-ai-agency"
+msgstr[0] ""
+msgstr[1] ""
+

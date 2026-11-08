@@ -1,0 +1,539 @@
+# Copyright (C) 2026 thryve-creative
+# This file is distributed under the same license as the thryve-creative package.
+msgid ""
+msgstr ""
+"Project-Id-Version: thryve-creative\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-27 11:29+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:28
+msgid "Arrow icon"
+msgstr ""
+
+#: ../functions.php:51
+msgid "Pill"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Checkmark"
+msgstr ""
+
+#: ../functions.php:93
+msgid "With arrow"
+msgstr ""
+
+#: ../functions.php:111
+msgid "With asterisk"
+msgstr ""
+
+#: ../functions.php:174, ../inc/theme-info/theme-info.php:11, ../inc/theme-info/theme-info.php:12, ../inc/theme-info/theme-info.php:56
+msgid "Thryve Creative"
+msgstr ""
+
+#: ../functions.php:175
+msgid "Front Page"
+msgstr ""
+
+#: ../functions.php:176
+msgid "Thryvewp pages"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:57
+msgid "Upgrade to Thryve Creative Pro!"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:62
+msgid "🚀 Unlock advanced features, premium blocks, enhanced customization options, priority support, and performance optimizations designed for professional business websites. Thryve Creative Pro helps you build faster, more flexible, and scalable websites with a premium design experience."
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:71
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../inc/admin-notice/admin-notice.php:75, ../inc/theme-info/theme-info.php:163
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:57
+msgid "A modern Full Site Editing WordPress theme built for businesses, agencies, and professionals."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:59, ../inc/theme-info/theme-info.php:159
+msgid "Buy Pro"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:68
+msgid "Full Site Editing"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:69
+msgid "Customize your entire website using Gutenberg blocks."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:74
+msgid "Fast & Lightweight"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:75
+msgid "Optimized for speed and performance."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:80
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:81
+msgid "Fully compatible with WooCommerce."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:86
+msgid "Responsive Design"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:87
+msgid "Looks perfect on all devices."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:94
+msgid "Getting Started Guide"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:97
+msgid "Setup Front Page and Post Page"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:99
+msgid "Settings → Reading."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:100
+msgid "Select \"A static page\" under Your homepage displays."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:101
+msgid "Choose your Homepage and Posts page."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:102
+msgid "Click Save Changes."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:106
+msgid "Change Favicon and Site Logo"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:108
+msgid "Go to Appearance → Customize or Appearance → Editor."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:109
+msgid "Open Site Identity."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:110
+msgid "Upload your Logo and Site Icon."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:111
+msgid "Click Publish / Save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:115
+msgid "Edit Front Page Template"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:117
+msgid "Go to Appearance → Editor."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:118
+msgid "Open Templates → Front Page."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:119
+msgid "Edit blocks and layout as needed."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:120
+msgid "Click Save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:124
+msgid "Add Custom CSS"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:126
+msgid "Go to Appearance → Editor"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:127
+msgid "Click Styles → Additional CSS."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:128
+msgid "Add your CSS code and save."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:133
+msgid "What I Will Get on Pro Version"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:135
+msgid "Additional Patterns & Templates."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:136
+msgid "Regular updates and compatibility checks."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:137
+msgid "Dedicated support & some customization help."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:138
+msgid "Theme setup and demo file installation."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:139
+msgid "Upcoming features and updates."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:144
+msgid "How to Install Pro Version"
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:146
+msgid "After purchasing the Pro version, log in to Freemius using the username and password you received at the time of purchase."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:147
+msgid "Download the Pro version ZIP file from your Freemius account."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:148
+msgid "Go to your WordPress Dashboard → Appearance → Themes → Add New."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:149
+msgid "Click on Upload Theme and upload the downloaded ZIP file."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:150
+msgid "Activate the theme and enter your license key to enable Pro features."
+msgstr ""
+
+#: ../inc/theme-info/theme-info.php:167
+msgid "Contact Us"
+msgstr ""
+
+#: ../patterns/404.php:15
+msgid "404 – Resource Not Available"
+msgstr ""
+
+#: ../patterns/404.php:19
+msgid "We couldn’t find the page you were looking for. Explore our website or navigate back to the homepage to continue."
+msgstr ""
+
+#: ../patterns/about-us.php:14
+msgid "Where Creative Vision Meets Smart, Results-Driven Execution — a perfect balance of creativity."
+msgstr ""
+
+#: ../patterns/about-us.php:30
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
+msgstr ""
+
+#: ../patterns/about-us.php:30
+msgid "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+msgstr ""
+
+#: ../patterns/about-us.php:35
+msgid "More About Us "
+msgstr ""
+
+#: ../patterns/archive-product.php:51
+msgid "No products found"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "You can try"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "clearing any filters"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "or head to our"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "store's home"
+msgstr ""
+
+#: ../patterns/articles-left-sidebar.php:61, ../patterns/articles-right-sidebar.php:57, ../patterns/articles-v2.php:38, ../patterns/articles.php:42, ../patterns/index.php:57
+msgid "No results"
+msgstr ""
+
+#: ../patterns/articles.php:13
+msgid "Latest News From Us"
+msgstr ""
+
+#: ../patterns/clients.php:12
+msgid "Our Trusted Partners"
+msgstr ""
+
+#: ../patterns/contact-us.php:23
+msgid "Get A Free Quote"
+msgstr ""
+
+#: ../patterns/contact-us.php:28
+msgid "Habitasse lacinia tempor augue penatibus euismod a dis malesuada tempus vulputate"
+msgstr ""
+
+#: ../patterns/contact-us.php:32
+msgid "Insert contact form"
+msgstr ""
+
+#: ../patterns/cta.php:12
+msgid "Boost Your Business with Expert Consulting."
+msgstr ""
+
+#: ../patterns/cta.php:17
+msgid "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words."
+msgstr ""
+
+#: ../patterns/cta.php:22
+msgid "Contact Us Now"
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:14
+msgid "Secure Your Financial Future"
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:14, ../patterns/featured-banner.php:15
+msgid "with Confidence"
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:18
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:28, ../patterns/featured-banner.php:25
+msgid "Satisfied Clients"
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:35, ../patterns/featured-banner.php:39
+msgid "Request Consultation"
+msgstr ""
+
+#: ../patterns/featured-banner-v2.php:39, ../patterns/featured-banner.php:43
+msgid "View Portfolio"
+msgstr ""
+
+#: ../patterns/featured-banner.php:15
+msgid "Secure Your"
+msgstr ""
+
+#: ../patterns/featured-banner.php:15
+msgid "Financial Future"
+msgstr ""
+
+#: ../patterns/featured-banner.php:25
+msgid "Trusted by 125K+"
+msgstr ""
+
+#: ../patterns/featured-banner.php:34
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. "
+msgstr ""
+
+#: ../patterns/footer.php:30
+msgid "Semper tincidunt in dui nec cursus feugiat si venenatis auctor conubia dolor dictumst non pellentesque libero sem senectus"
+msgstr ""
+
+#: ../patterns/footer.php:34
+msgid "Email: Example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:38
+msgid "Phone: +01-123-4567-123"
+msgstr ""
+
+#: ../patterns/footer.php:47
+msgid "About"
+msgstr ""
+
+#: ../patterns/footer.php:63
+msgid "Quick Links"
+msgstr ""
+
+#: ../patterns/footer.php:73
+msgid "Privacy"
+msgstr ""
+
+#: ../patterns/footer.php:95
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:95
+msgid "WordPress"
+msgstr ""
+
+#: ../patterns/gallery.php:13
+msgid "Our Latest Work"
+msgstr ""
+
+#: ../patterns/header.php:20
+msgid "Book a Call"
+msgstr ""
+
+#: ../patterns/search.php:42
+msgid "No Results Found"
+msgstr ""
+
+#: ../patterns/services-v2.php:14
+msgid "Explore our services to"
+msgstr ""
+
+#: ../patterns/services-v2.php:14, ../patterns/services.php:15
+msgid "boost your business"
+msgstr ""
+
+#: ../patterns/services-v2.php:27, ../patterns/services.php:35
+msgid "Business Consulting"
+msgstr ""
+
+#: ../patterns/services-v2.php:31, ../patterns/services-v2.php:47, ../patterns/services-v2.php:63, ../patterns/services-v2.php:79, ../patterns/services.php:39, ../patterns/services.php:69, ../patterns/services.php:99, ../patterns/services.php:131, ../patterns/services.php:161, ../patterns/services.php:191
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr ""
+
+#: ../patterns/services-v2.php:43, ../patterns/services.php:65
+msgid "Plan development"
+msgstr ""
+
+#: ../patterns/services-v2.php:59, ../patterns/services.php:95, ../patterns/services.php:157
+msgid "Finance strategy"
+msgstr ""
+
+#: ../patterns/services-v2.php:75, ../patterns/services.php:187
+msgid "Risk Management"
+msgstr ""
+
+#: ../patterns/services.php:15
+msgid "Explore our services to "
+msgstr ""
+
+#: ../patterns/services.php:20
+msgid "View All Services"
+msgstr ""
+
+#: ../patterns/services.php:44, ../patterns/services.php:74, ../patterns/services.php:104, ../patterns/services.php:136, ../patterns/services.php:166, ../patterns/services.php:196
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: ../patterns/services.php:48, ../patterns/services.php:78, ../patterns/services.php:108, ../patterns/services.php:140, ../patterns/services.php:170, ../patterns/services.php:200
+msgid "Smart Consulting Services"
+msgstr ""
+
+#: ../patterns/services.php:52, ../patterns/services.php:82, ../patterns/services.php:112, ../patterns/services.php:144, ../patterns/services.php:174, ../patterns/services.php:204
+msgid "Expert Growth Solutions"
+msgstr ""
+
+#: ../patterns/services.php:127
+msgid "Investment Idea"
+msgstr ""
+
+#: ../patterns/sidebar.php:16
+msgid "Call to Action"
+msgstr ""
+
+#: ../patterns/sidebar.php:21
+msgid "Experience Seamless Style and Speed"
+msgstr ""
+
+#: ../patterns/sidebar.php:26
+msgid "Explore More"
+msgstr ""
+
+#: ../patterns/sidebar.php:38
+msgid "Post Category"
+msgstr ""
+
+#: ../patterns/sidebar.php:46
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:54
+msgid "Social Links"
+msgstr ""
+
+#: ../patterns/single-product.php:53
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:15
+msgid "Meet the experts behind "
+msgstr ""
+
+#: ../patterns/team.php:15
+msgid "your success"
+msgstr ""
+
+#: ../patterns/team.php:20
+msgid "View All Experts"
+msgstr ""
+
+#: ../patterns/team.php:41, ../patterns/team.php:89, ../patterns/team.php:113
+msgid "Ana Doe"
+msgstr ""
+
+#: ../patterns/team.php:45
+msgid "CEO / Content Writer"
+msgstr ""
+
+#: ../patterns/team.php:65
+msgid "john Doe"
+msgstr ""
+
+#: ../patterns/team.php:69
+msgid "CTO / Hiring Manager"
+msgstr ""
+
+#: ../patterns/team.php:93
+msgid "COO / Developer"
+msgstr ""
+
+#: ../patterns/team.php:117
+msgid "CFO / SEO Expert"
+msgstr ""
+
+#: ../patterns/values.php:14
+msgid "Solutions tailored to your business needs"
+msgstr ""
+
+#: ../patterns/values.php:25
+msgid "Our Mission"
+msgstr ""
+
+#: ../patterns/values.php:29, ../patterns/values.php:45, ../patterns/values.php:63, ../patterns/values.php:79
+msgid "It is a long established fact that a reader will be distracted..."
+msgstr ""
+
+#: ../patterns/values.php:41
+msgid "Our Vision"
+msgstr ""
+
+#: ../patterns/values.php:59
+msgid "Our Awards"
+msgstr ""
+
+#: ../patterns/values.php:75
+msgid "Our Ambition"
+msgstr ""

@@ -1,0 +1,77 @@
+.thryvewp-info-wrap {
+    max-width: 1100px;
+    margin-top: 15px;
+}
+
+.thryvewp-info-header {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    clear: both;
+}
+
+.thryvewp-info-header h1 {
+    margin: 0 0 8px;
+    font-size: 28px;
+}
+
+.thryvewp-info-header p {
+    margin: 0;
+    color: #555;
+    font-size: 15px;
+}
+
+.thryvewp-info-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+    margin-bottom: 25px;
+}
+
+.thryvewp-feature-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.thryvewp-feature-box h3 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.thryvewp-feature-box p {
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+}
+
+.thryvewp-info-actions .button {
+    margin-right: 10px;
+}
+
+.thryvewp-setup-guide {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.thryvewp-feature-box .dashicons {
+    font-size: 32px; 
+    display: block; 
+    margin-bottom: 30px;
+}
+
+.thryvewp-setup-guide-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.thryvewp-setup-guide-list > div {
+    background: #eee;
+    padding: 15px;
+    border-radius: 6px;
+}

@@ -1,0 +1,306 @@
+/*
+Theme Name: Thryve Creative
+Theme URI: https://thryvewp.com/themes/thryve-creative
+Author: thryvewp
+Author URI: https://thryvewp.com/
+Description: Thryve Creative is a modern, lightweight, and highly optimized Full Site Editing (FSE) WordPress theme designed for speed, flexibility, and performance. Built with clean code and the latest WordPress standards, it delivers fast loading times and an intuitive customization experience through the Site Editor—no coding required. The theme includes responsive layouts, SEO-friendly structure and seamless compatibility with popular WordPress plugins. Thryve Creative is ideal for businesses, corporate websites, consulting firms, agencies, startups, financial services, law firms, travel and tour companies, educational institutions, schools, colleges, healthcare providers, nonprofits, portfolios, and many other professional websites. Whether you're creating a simple business site or a feature-rich corporate presence, Thryve Creative provides a solid, performance-focused foundation that is easy to customize and maintain.
+Requires at least: 6.5
+Tested up to: 7.0
+Requires PHP: 7.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: thryve-creative
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations,  blog, portfolio, education
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+.wp-block-button__link:hover,
+.thryve-btn-has-arrow a:hover {
+  background-color: var(--wp--preset--color--btn-hover-bg) !important;
+  color: var(--wp--preset--color--btn-hover-text) !important;
+  transition: all .3s;
+}
+
+.sticky-header {
+  position: sticky;
+  z-index: 9;
+  top: 0;
+}
+
+.is-sticky #main-header {
+    z-index: 90 !important;
+}
+
+footer.wp-block-template-part {
+  margin-top: 0;
+}
+
+.thryve-creative-no-underline a {
+  text-decoration: none;
+}
+
+/* sub menu style for desktop */
+
+@media (min-width: 599px) {
+  .main-header ul.wp-block-navigation__submenu-container li {
+    border-bottom: 1px solid #eee;
+  }
+
+  .main-header ul.wp-block-navigation__submenu-container {
+    border-radius: 5px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+}
+
+/* navigation link hover css */
+
+@media (min-width: 1024px) {
+  /* Navigation links */
+  .wp-block-navigation__container a {
+    position: relative;
+    text-decoration: none;
+    color: #000;
+    transition: color 0.3s ease;
+  }
+
+  /* Underline line */
+  .wp-block-navigation__container a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 2px;
+    background: var(--wp--preset--color--primary);
+    transition: width 0.3s ease;
+  }
+
+  /* Hover underline slides from left to right */
+  .wp-block-navigation__container a:hover::after {
+    width: 100%;
+  }
+
+  /* Active (current page) underline */
+  .wp-block-navigation__container .is-active > a::after,
+  .wp-block-navigation__container .current-menu-item > a::after {
+    width: 100%;
+  }
+
+  /* Optional: active link color */
+  .wp-block-navigation__container .is-active > a,
+  .wp-block-navigation__container .current-menu-item > a {
+    color: var(--wp--preset--color--primary);
+  }
+}
+
+/* pagination css */
+
+.page-numbers {
+  padding: 0 10px 10px;
+  text-decoration: none;
+}
+
+.wp-block-query-pagination-next,
+.wp-block-query-pagination-previous {
+  text-decoration: none;
+}
+
+.wp-block-query-pagination-next:hover,
+.wp-block-query-pagination-previous:hover {
+  color: var(--wp--preset--color--primary);
+}
+
+.page-numbers.current,
+.page-numbers:hover {
+  border-bottom: 1px solid var(--wp--preset--color--primary);
+}
+
+/* sidebar css */
+
+.wp-block-categories-list a:hover,
+.wp-block-latest-posts__post-title:hover {
+  color: var(--wp--preset--color--primary);
+}
+
+.wp-block-latest-posts.wp-block-latest-posts__list {
+  overflow: hidden;
+}
+
+/* search css */
+
+.wp-block-search__inside-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.wp-block-search__input {
+  padding: 8px 35px 8px 8px;
+}
+
+.wp-block-search__input::placeholder {
+  color: #000;
+}
+
+.wp-block-search__button {
+  position: absolute;
+  right: 0;
+  background: transparent !important;
+  border: none;
+  padding: 0 !important;
+  cursor: pointer;
+}
+
+.wp-block-search__button svg {
+  width: 36px;
+  height: 36px;
+  fill: #ffffff;
+}
+
+/* contact us section */
+
+.contact-us form label,
+.contact-us form input::placeholder,
+.contact-us form textarea::placeholder {
+  color: #000;
+}
+
+.contact-us form input.wpcf7-form-control,
+.contact-us form textarea {
+  width: -webkit-fill-available;
+  height: 30px;
+  background: transparent;
+  padding: 10px;
+  border: 1px solid #a4a4a4;
+  max-width: 100%;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-family: inherit;
+  color: #000;
+}
+
+.contact-us form textarea {
+  height: 100px;
+}
+
+.contact-us input.wpcf7-form-control.wpcf7-submit.has-spinner {
+  background: var(--wp--preset--color--primary);
+  color: #fff;
+  height: 50px;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 220px;
+  border: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+}
+
+.thryvewp-go-to-top {
+  position: fixed;
+  bottom: 30px;
+  background: var(--wp--preset--color--primary);
+  cursor: pointer;
+  z-index: 999;
+  right: 20px;
+  height: 40px;
+  width: 40px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.thryvewp-go-to-top:hover {
+  background: var(--wp--preset--color--secondary);
+}
+
+.thryvewp-go-to-top:before {
+  content: '';
+  border: solid #fff;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 5px;
+  margin-top: 5px;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+/* additional css */
+
+.thryve-btn-has-arrow img {
+  vertical-align: middle;
+  width: 20px !important;
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.thryve-has-box-shadow {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.h-100 {
+height: 100%;
+}
+
+.thryve-has-effect span.wp-block-cover__background.has-black-background-color {
+transition: all .3s;
+}
+
+.thryve-has-effect:hover span.wp-block-cover__background.has-black-background-color {
+    opacity: 0 !important;
+}
+
+/* responsive style */
+
+@media (max-width: 768px) {
+  .wp-block-site-logo img {
+    width: 170px;
+  }
+
+  .thryve-features-card {
+    border-radius: 10px !important;
+  }
+
+  .thryve-hero-content {
+    padding-top: 60px !important;
+    padding-bottom: 210px !important;
+  }
+
+  .thryve-features-wrapper {
+    padding-bottom: 60px !important;
+  }
+
+  .thryve-features-title {
+    font-size: 18px !important;
+  }
+
+  .thryve-no-mobile {
+    display: none !important;
+  }
+
+  .thryve-heading {
+    font-size: 30px !important;
+  }
+
+  .thryve-responsive-spacing {
+    padding: 60px 20px !important;
+  }
+
+  .thryve-responsive-image {
+    min-height: 300px !important;
+  }
+
+  .wp-block-button__link {
+    padding: 10px 20px !important;
+  }
+
+  .thryve-section-title-wrapper {
+    padding-bottom: 30px !important;
+  }
+}
